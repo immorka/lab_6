@@ -1,0 +1,40 @@
+body {
+    padding-top: 60px;
+}
+
+nav{
+    background-color:rgb(31, 37, 65);
+    color: white;
+}
+
+#features1{
+    background-color: rgb(152, 156, 170);
+}
+
+.module{
+    margin-top: 10px;
+    border-radius: 50px;
+    align-items: center;
+}
+
+.module3{
+    background-color: rgb(152, 156, 170);
+}
+
+.h11{
+    margin-bottom: 16px;
+}
+
+.forms{
+    background-color: rgb(79, 86, 124);
+    color: bisque;
+    border-radius: 50px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+.logo {
+    max-height: 100%;
+}
